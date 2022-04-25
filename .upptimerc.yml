@@ -9,6 +9,8 @@ sites:
     url: https://api-qa.titoapp.org/ping
   - name: Down Page - Testing
     url: https://thissitedoesnotexist.koj.co
+  - name: Down Page - Testing 2
+    url: https://thissitedoesnotexist2.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
