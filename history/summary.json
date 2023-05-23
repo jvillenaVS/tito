@@ -11,10 +11,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.80%",
     "time": 286,
-    "timeDay": 191,
-    "timeWeek": 262,
-    "timeMonth": 327,
-    "timeYear": 292,
+    "timeDay": 388,
+    "timeWeek": 286,
+    "timeMonth": 321,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2023-05-08": 96,
       "2023-03-09": 356,
@@ -36,17 +36,16 @@
     "slug": "tito-api-qa",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.88%",
     "time": 267,
-    "timeDay": 257,
-    "timeWeek": 299,
-    "timeMonth": 341,
-    "timeYear": 273,
+    "timeDay": 291,
+    "timeWeek": 314,
+    "timeMonth": 334,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2023-05-22": 12,
       "2023-05-04": 22,
       "2023-04-27": 18,
       "2023-03-31": 23,
@@ -61,8 +60,7 @@
       "2022-11-09": 19,
       "2022-10-01": 18,
       "2022-06-19": 83,
-      "2022-06-12": 21,
-      "2022-05-23": 20
+      "2022-06-12": 21
     }
   }
 ]
