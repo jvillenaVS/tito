@@ -1,7 +1,7 @@
 url: https://api-prod.titoapp.org/ping
-status: down
-code: 502
-responseTime: 243
-lastUpdated: 2023-06-05T14:51:03.388Z
+status: up
+code: 200
+responseTime: 235
+lastUpdated: 2023-06-05T15:09:22.406Z
 startTime: Mon Apr 25 2022 19:03:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
