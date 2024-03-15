@@ -11,9 +11,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.64%",
     "time": 286,
-    "timeDay": 221,
-    "timeWeek": 301,
-    "timeMonth": 290,
+    "timeDay": 238,
+    "timeWeek": 288,
+    "timeMonth": 289,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2024-03-05": 123,
@@ -38,14 +38,14 @@
     "slug": "tito-api-qa",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "97.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 274,
-    "timeDay": 220,
-    "timeWeek": 317,
-    "timeMonth": 287,
+    "timeDay": 162,
+    "timeWeek": 283,
+    "timeMonth": 284,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2024-03-13": 38,
@@ -57,8 +57,7 @@
       "2023-04-27": 18,
       "2023-03-31": 23,
       "2023-03-24": 66,
-      "2023-03-20": 133,
-      "2023-03-16": 35
+      "2023-03-20": 133
     }
   }
 ]
