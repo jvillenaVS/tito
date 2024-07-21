@@ -4,7 +4,7 @@
     "url": "https://api-prod.titoapp.org/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.titoapp.org.ico",
     "slug": "tito-api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 281,
     "timeYear": 277,
     "dailyMinutesDown": {
+      "2024-07-21": 0,
       "2024-07-04": 333,
       "2024-06-04": 20,
       "2024-05-05": 532,
