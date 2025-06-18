@@ -1,7 +1,7 @@
 url: https://api-qa.titoapp.org/ping
-status: down
-code: 502
-responseTime: 465
-lastUpdated: 2025-06-18T15:28:21.374Z
+status: up
+code: 200
+responseTime: 308
+lastUpdated: 2025-06-18T15:58:58.946Z
 startTime: 2022-04-25T19:03:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
