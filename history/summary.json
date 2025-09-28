@@ -4,7 +4,7 @@
     "url": "https://api-prod.titoapp.org/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.titoapp.org.ico",
     "slug": "tito-api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
